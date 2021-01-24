@@ -96,7 +96,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
     <body style="background-color:#BFAD6F">
         <div class="navbar">
             <a class="active" href="login.php"><i class="fa fa-sign-in"></i> Login</a>
-            <a href="https://github.com/rakeshswain123"><i class="fa fa-github"></i> Github</a>
+            <a href="https://github.com/rakeshswain123/nettantra2assign"><i class="fa fa-github"></i> Github</a>
             <a href="https://www.linkedin.com/in/rakesh-kumar-swain-aa0841a5/"><i class="fa fa-linkedin"></i> LinkedIn</a>
             <a href="register.php"><i class="fa fa-user-plus"></i> Sign Up</a>
         </div> 

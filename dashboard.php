@@ -58,7 +58,7 @@
     <body style="background-color:#BFAD6F">
         <div class="navbar">
             <a class="active" href="dashboard.php"><i class="fa fa-fw fa-home"></i> Dashboard</a>
-            <a href="https://github.com/rakeshswain123"><i class="fa fa-github"></i> Github</a>
+            <a href="https://github.com/rakeshswain123/nettantra2assign"><i class="fa fa-github"></i> Github</a>
             <a href="https://www.linkedin.com/in/rakesh-kumar-swain-aa0841a5/"><i class="fa fa-linkedin"></i> LinkedIn</a>
             <a href="logout.php"><i class="fa fa-sign-out"></i> Logout</a>
         </div>     
